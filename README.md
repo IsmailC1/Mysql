@@ -1,7 +1,7 @@
 # Mysql
 The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
 
-Description
+
 If you want to learn how to gain insights from data but are too intimidated by databases to know where to start, 
 then this course is for you. This course is a gentle but comprehensive introduction to MySQL,
 one of the most highly in-demand skills in the business sector today.  
@@ -64,4 +64,6 @@ Upon completing this course, you’ll be able to interact with and query any SQL
 You’ll also be able to generate reports with ease, answer company performance questions using data,
 and integrate MySQL into complete applications.
 
-So let’s do this! Colt Steele
+So let’s do this!
+
+Colt Steele
